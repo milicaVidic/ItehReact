@@ -19,7 +19,7 @@ function Pevaci() {
 
     return (
         <div className="pevaci">
-            <h2>Pevači</h2>
+            <h2 className="mt-3 mb-3">Pevači</h2>
             {pevaci}
         </div>
     );
